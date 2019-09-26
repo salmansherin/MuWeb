@@ -25,8 +25,8 @@ Replacing (function()!==false) by (function())
 **JQuery**<br/>
 Swap {#} and {.} sign in selector<br/>
 Remove {$} sign that returns a jquery object<br/>
-Change the name of the property or class or element in the following methods: addClass, removeClass, removeAttr, prop, CSS, remove and detach<br/>
-<br/><br/>
+Change the name of the property or class or element in the following methods: addClass, removeClass, removeAttr, prop, CSS, remove and detach
+<br/>
 **SQL**<br/>
 Omitted distinct in select<br/>
 One join with the wrong type<br/>
