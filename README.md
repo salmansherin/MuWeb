@@ -3,49 +3,48 @@ A prototype tool that support mutation analysis for web applications. Currently,
 
 List of supported Mutation operators
 
-HTML
-•	Simple link replacement
-•	Simple link deletion
-•	Form link replacement
-•	Transfer mode replacement
-•	Hidden Form field replacement
-•	Hidden form field deletion
-•	Server-side include deletion
-•	Server-side include replacement
-
-JavaScript
-•	Adding/Removing the var keyword
-•	Removing the global search flag from replace
-•	Removing the integer base argument from parseInt
-•	Changing setTimeout function
-•	Replacing undefined with null
-•	Removing this keyword
-•	Replacing (function()!==false) by (function())
-
-JQuery
-•	Swap {#} and {.} sign in selector.
-•	Remove {$} sign that returns a jquery object.
-•	Change the name of the property or class or element in the following methods: addClass, removeClass, removeAttr, prop, CSS, remove and detach.
-
-SQL
-•	Omitted distinct in select
-•	One join with the wrong type
-•	Two joins with the wrong type
-•	Use a wrong SQL join
-•	Join incorrect tables
-•	Wrong columns in order by
-•	Order by omitted
-•	Unnecessary IS NULL
-•	Omitted IS NULL
-•	Wrong columns in the select list
-
-PHP
-•	Arithmetic
-•	Boolean
-•	Conditional boundary
-•	Conditional Negation
-•	If statement
-•	Increment
-•	Number
-•	Return value
+**HTML**<br/>
+Simple link replacement<br/>
+Simple link deletion<br/>
+Form link replacement<br/>
+Transfer mode replacement<br/>
+Hidden Form field replacement<br/>
+Hidden form field deletion<br/>
+Server-side include deletion<br/>
+Server-side include replacement
+<br/>
+**JavaScript**<br/>
+Adding/Removing the var keyword<br/>
+Removing the global search flag from replace<br/>
+Removing the integer base argument from parseInt<br/>
+Changing setTimeout function<br/>
+Replacing undefined with null<br/>
+Removing this keyword<br/>
+Replacing (function()!==false) by (function())
+<br/>
+**JQuery**<br/>
+Swap {#} and {.} sign in selector<br/>
+Remove {$} sign that returns a jquery object<br/>
+Change the name of the property or class or element in the following methods: addClass, removeClass, removeAttr, prop, CSS, remove and detach<br/>
+<br/><br/>
+**SQL**<br/>
+Omitted distinct in select<br/>
+One join with the wrong type<br/>
+Two joins with the wrong type<br/>
+Use a wrong SQL join<br/>
+Join incorrect tables<br/>
+Wrong columns in order by<br/>
+Order by omitted<br/>
+Unnecessary IS NULL<br/>
+Omitted IS NULL<br/>
+Wrong columns in the select list
+<br/>
+**PHP**<br/>
+Arithmetic<br/>
+Boolean<br/>
+Conditional boundary<br/>
+Conditional Negation<br/>
+If statement<br/>
+Increment Number<br/>
+Return value<br/>
 
