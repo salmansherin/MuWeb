@@ -1,0 +1,42 @@
+Operator WLD took 5 minutes and 21 seconds
+Operator WLD took 0 minutes and 26 seconds
+Operator WLR took 4 minutes and 51 seconds
+Operator WFR took 9 minutes and 38 seconds
+Operator WTR took 14 minutes and 8 seconds
+Operator ARTH took 21 minutes and 46 seconds
+Operator BOOL took 27 minutes and 6 seconds
+Cursor failed to execute query: 'SELECT * FROM mutant_table Where Killed='1' and Operator= WLD' Because of the following error:
+no such column: OperatorCursor failed to execute query: 'SELECT * FROM mutant_table Where Killed='1' and Operator= 'WLD'' Because of the following error:
+no such column: OperatorCursor failed to execute query: 'SELECT * FROM mutant_table Where Killed='1' and Operator='WLD'' Because of the following error:
+no such column: OperatorOperator WLD took 0 minutes and 28 seconds
+Operator WLR took 1 minutes and 4 seconds
+Operator WFR took 1 minutes and 37 seconds
+Operator WTR took 1 minutes and 59 seconds
+Operator ARTH took 2 minutes and 29 seconds
+Operator BOOL took 2 minutes and 49 seconds
+Operator WLD took 0 minutes and 13 seconds
+Operator WLR took 0 minutes and 29 seconds
+Operator WFR took 0 minutes and 39 seconds
+Operator WTR took 0 minutes and 47 seconds
+Operator ARTH took 0 minutes and 57 seconds
+Operator BOOL took 1 minutes and 4 seconds
+Operator WLD took 1 minutes and 8 seconds
+Operator WLR took 2 minutes and 21 seconds
+Operator WFR took 3 minutes and 17 seconds
+Operator WTR took 4 minutes and 6 seconds
+Operator ARTH took 5 minutes and 35 seconds
+Operator BOOL took 6 minutes and 26 seconds
+Operator WLD took 0 minutes and 21 seconds
+Operator WLR took 0 minutes and 52 seconds
+Operator WFR took 0 minutes and 56 seconds
+Operator WTR took 0 minutes and 59 seconds
+Operator ARTH took 1 minutes and 7 seconds
+Operator BOOL took 1 minutes and 12 seconds
+Operator WLD took 0 minutes and 6 seconds
+Operator WLR took 0 minutes and 11 seconds
+Operator WLD took 2 minutes and 10 seconds
+Operator WLR took 3 minutes and 21 seconds
+Operator WFR took 4 minutes and 21 seconds
+Operator WTR took 5 minutes and 10 seconds
+Operator ARTH took 6 minutes and 44 seconds
+Operator BOOL took 7 minutes and 36 seconds
