@@ -161,9 +161,11 @@ def main_thread(DB,f_path):
             replace_back_file(mutant[4])
 
 def run_java_component(case_study_path):
+	#to be made dynamic
         os.chdir(r"C:\Users\pc\eclipse-workspace\BH_test")
         os.system(case_study_path)
 def main():
+	#to be made dynamic
     DB = db_conn()
     # web_app=argv[0]
 
